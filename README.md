@@ -7,6 +7,9 @@ Uyyy pero que zukulento...( ͡° ͜ʖ ͡°)   ( ͡° ͜ʖ ͡°)    ( ͡° ͜ʖ �
 ### Toy malito, tengo las siete plagas
 
 Some Markdown text with <span style="color:blue">some *blue* text</span>.
+Roses are <span style="color:red">red</span>, violets are <span style="color:blue">blue</span>.
+
+
 
 Sigueme en mis redes sukulemtas: Pinstagram, [Tuita](https://twitter.com/DarkReitor) y el [Facebuko](https://www.facebook.com/darkreitor)
 
