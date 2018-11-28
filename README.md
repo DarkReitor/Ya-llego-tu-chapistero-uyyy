@@ -1,32 +1,8 @@
-## Bienvenido a la pagina de Julio Azul.. Como no!!!
 
-You can use the [editor on GitHub](https://github.com/DarkReitor/hello-word/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![https://i.ibb.co/wMcc4Fr/Licht-542419.jpg](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Image of Yaktocat](https://i.ibb.co/wMcc4Fr/Licht-542419.jpg)
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://raw.githubusercontent.com/DarkReitor/hello-word/master/Licht_542419.jpg)
+![Image of Yaktocat](https://raw.githubusercontent.com/DarkReitor/hello-word/master/DSC_1191-1.jpgg)
