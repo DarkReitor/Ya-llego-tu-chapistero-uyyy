@@ -1,7 +1,6 @@
 ## BIENVENIDO A LA PAGINA DE JULIO AZUL. COMO NO!!!!
 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Uyyy pero que zukulento...
 
 ### Markdown
 
