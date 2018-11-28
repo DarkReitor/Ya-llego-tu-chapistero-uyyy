@@ -29,3 +29,4 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Image of Yaktocat](https://i.ibb.co/wMcc4Fr/Licht-542419.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
