@@ -14,3 +14,9 @@ Sigueme en mis redes sukulemtas: Pinstagram, [Tuita](https://twitter.com/DarkRei
 
 ![Image of Yaktocat](https://raw.githubusercontent.com/DarkReitor/hello-word/master/dsc_1191_1.jpg)
 ![Image of Yaktocat](https://raw.githubusercontent.com/DarkReitor/hello-word/master/licht_542419.jpg)
+<html>
+  <head>
+    {% include head.html %}
+    {% seo %}
+  </head>
+</html>
